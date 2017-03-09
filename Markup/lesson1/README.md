@@ -25,11 +25,11 @@
 Создать файл 'task3.html' который будет содержать:
   - Химическое уравнение как в картинке 'task3_1.png'
   
-![task3_1.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson1/task3_1.png)
+![task3_1.png](task3_1.png)
 
   - Математическую формулу как в картинке 'task3_2.png'
 
-![task3_2.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson1/task3_2.png)
+![task3_2.png](task3_2.png)
 
 ## Задание 4
 Создать файл 'task4.html' который будет содержать:

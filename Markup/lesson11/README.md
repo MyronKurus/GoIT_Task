@@ -4,7 +4,7 @@
 
 Необходимо доверстать блок из макета: https://yadi.sk/i/2rDxke3ugV26H
 
-![lesson10_1](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson11/lesson10_1.jpg)
+![lesson10_1](lesson10_1.jpg)
 
 ТЗ:
 

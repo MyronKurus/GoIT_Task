@@ -36,7 +36,7 @@
 В файле task2.html необходимо сверстать картину Пита Мондриана "Композиция с красным, синим и желтым" используя таблицу.
 Смотри файл tables_hw.png
 
-![task2](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson2/tables_hw.png)
+![task2](tables_hw.png)
  
 Привожу цвета используемые в картине:
 
@@ -63,7 +63,7 @@
 ### Формы
 В файле task3.html необходимо сверстать форму как на изображении forms_hw.png
 
-![task3](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson2/forms_hw.png)
+![task3](forms_hw.png)
 
 Для переносов строк использовать тег *br*.
 
@@ -83,7 +83,7 @@
 
 Далее сверстать список по макету из файла lists1_hw.png.
 
-![task4](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson2/lists1_hw.png)
+![task4](lists1_hw.png)
 
 *Текст для задания*
 
@@ -108,7 +108,7 @@ Mapc
 
 Далее сверстать список по макету из файла lists2_hw.png.
 
-![task4](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson2/lists2_hw.png)
+![task4](lists2_hw.png)
 
 *Текст для задания*
 

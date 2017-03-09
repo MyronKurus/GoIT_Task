@@ -6,7 +6,7 @@
 
 Ваша задача написать такой css файл, который стилизует страницу согласно макету selector_task.png
 
-![selector_task.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson3/selector_task.png)
+![selector_task.png](selector_task.png)
 
 Для стилизации используются в основном эти свойства:
 
@@ -46,14 +46,14 @@ last/first/only http://codepen.io/puzankov/pen/vEqrpw
     
 Получится внешний вид как на картинке task4.png  
 
-![task4.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson3/task4.png)
+![task4.png](task4.png)
 
 ## Задание 5
 В файле task5.html хранится исходный html. В html можно только добавить ссылку на css файл который вы напишете.
 
 Ваша задача написать такой css файл, который разукрасит таблицу как на макете task5.png.
 
-![task5.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson3/task5.png)
+![task5.png](task5.png)
 
 В качестве цветов фона используйте:
 
@@ -67,5 +67,5 @@ last/first/only http://codepen.io/puzankov/pen/vEqrpw
 
 Макет хранится в файле task6.png. Первая строка - исходный вид. Остальные - как выглядят при нажатии на разные чекбоксы.
 
-![task6.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson3/task6.png)
+![task6.png](task6.png)
 
